@@ -1,19 +1,19 @@
 # Natural Language Processing
 
 ## Purpose Of Research 
-![alt text](images\purpose_of_research.jpg)
+![alt text](images/purpose_of_research.jpg)
 
 ## Overview 
-![alt text](images\overview_of_nlp.jpg)
+![alt text](images/overview_of_nlp.jpg)
 
 ## How Does NLP Affect Future Society?
-![alt text](images\how_does_nlp_affect_future_society.jpg)
+![alt text](images/how_does_nlp_affect_future_society.jpg)
 
 ## Ethical Impact
-![alt text](images\ethical_considerations_of_nlp.jpg)
+![alt text](images/ethical_considerations_of_nlp.jpg)
 
 ## Business Potential Of NLP
-![alt text](images\business_potential_of_nlp.jpg)
+![alt text](images/business_potential_of_nlp.jpg)
 
 # Inside NLP with demo
 
@@ -131,4 +131,4 @@ Bots powered by NLP allow people to communicate with computers in a way that fee
 Python chat.py
 
 ## Summary And Conclusion
-![alt text](images\summary_and_conclusion.jpg)
+![alt text](images/summary_and_conclusion.jpg)
