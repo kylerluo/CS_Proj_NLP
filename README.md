@@ -7,13 +7,13 @@
 ![alt text](images/overview_of_nlp.jpg)
 
 ## How Does NLP Affect Future Society?
-![alt text](images/how_does_nlp_affect_future_society.jpg)
+![alt text](images\updated_how_nlp_affects_future_society.jpg)
 
 ## Ethical Impact
-![alt text](images/ethical_considerations_of_nlp.jpg)
+![alt text](images/updated_ethical_considerations.jpg)
 
 ## Business Potential Of NLP
-![alt text](images/business_potential_of_nlp.jpg)
+![alt text](images/updated_business_potential.jpg)
 
 # Inside NLP with demo
 
